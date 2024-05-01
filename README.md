@@ -1,5 +1,5 @@
 # CelebrityFaceRecognition
-
+![ui_snapshot](https://github.com/Saibharathkanasani/CelebrityFaceRecognition/assets/126198068/cc255322-89e2-4f64-af21-709b3b73b091)
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1) Maria Sharapova
